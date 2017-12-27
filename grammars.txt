@@ -1,0 +1,7 @@
+S -> NP VP
+S -> Interj NP VP
+NP -> Det N | Det N PP | Det Nom | Det Nom PP | PropN | Det N 'that' VP | Det Adj N
+Nom -> Adj Nom | N
+VP -> V | V NP | VP NP PP | VTrans NP | Vintr
+PP -> P NP
+

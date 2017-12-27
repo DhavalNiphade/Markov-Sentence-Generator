@@ -1,0 +1,139 @@
+A Brief History of Time: From the Big Bang to Black Holes is a popular-science book on cosmology (the study of the universe) by British physicist Stephen Hawking.[1] It was first published in 1988. Hawking wrote the book for nonspecialist readers with no prior knowledge of scientific theories.
+
+In A Brief History of Time, Hawking writes in non-technical terms about the structure, origin, development and eventual fate of the universe, which is the object of study of astronomy and modern physics. He talks about basic concepts like space and time, basic building blocks that make up the universe (such as quarks) and the fundamental forces that govern it (such as gravity). He writes about cosmological phenomena such as the Big Bang and the black holes. He discusses two major theories, general relativity and quantum mechanics, that modern scientists use to describe the universe. Finally, he talks about the search for a unifying theory that describes everything in the universe in a coherent manner.
+
+The book became a bestseller and sold more than 10 million copies in 20 years.[2] It was also on the London Sunday Times bestseller list for more than five years and was translated into 35 languages by 2001.[3]
+
+Contents
+
+    1 Publication
+    2 Contents
+        2.1 Chapter 1: Our Picture of the Universe
+        2.2 Chapter 2: Space and Time
+        2.3 Chapter 3: The Expanding Universe
+        2.4 Chapter 4: The Uncertainty Principle
+        2.5 Chapter 5: Elementary Particles and Forces of Nature
+        2.6 Chapter 6: Black Holes
+        2.7 Chapter 7: Black Holes Ain't So Black
+        2.8 Chapter 8: The Origin and Fate of the Universe
+        2.9 Chapter 9: The Arrow of Time
+        2.10 Chapter 10: The Unification of Physics
+        2.11 Chapter 11: Conclusion
+    3 Editions
+    4 Film
+    5 Opera
+    6 See also
+    7 References
+    8 External links
+
+Publication
+
+Early in 1983, Hawking first approached Simon Mitton, the editor in charge of astronomy books at Cambridge University Press, with his ideas for a popular book on cosmology. Mitton was doubtful about all the equations in the draft manuscript, which he felt would put off the buyers in airport bookshops that Hawking wished to reach. With some difficulty, he persuaded Hawking to drop all but one equation.[4] The author himself notes in the book's acknowledgements that he was warned that for every equation in the book, the readership would be halved, hence it includes only a single equation: E = mc2. The book does employ a number of complex models, diagrams, and other illustrations to detail some of the concepts it explores.
+Contents
+
+In A Brief History of Time, Stephen Hawking attempts to explain a range of subjects in cosmology, including the Big Bang, black holes and light cones, to the nonspecialist reader. His main goal is to give an overview of the subject, but he also attempts to explain some complex mathematics. In the 1996 edition of the book and subsequent editions, Hawking discusses the possibility of time travel and wormholes and explores the possibility of having a universe without a quantum singularity at the beginning of time.
+Chapter 1: Our Picture of the Universe
+A picture of Ptolemy's earth-centric model about the location of the planets, stars, and sun.
+
+In the first chapter, Hawking discusses the history of astronomical studies, including the ideas of Aristotle and Ptolemy. Aristotle, unlike many other people of his time, thought that the Earth was round. He came to this conclusion by observing lunar eclipses, which he thought were caused by the earth's round shadow, and also by observing an increase in altitude of the North Star from the perspective of observers situated further to the north. Aristotle also thought that the sun and stars went around the Earth in perfect circles, because of "mystical reasons". Second-century Greek astronomer Ptolemy also pondered the positions of the sun and stars in the universe and made a planetary model that described Aristotle's thinking in more detail.
+Kepler's sun-centric elliptical orbit model of the solar system
+
+Today, it is known that the opposite is true: the earth goes around the sun. The Aristotelian and Ptolemaic ideas about the position of the stars and sun were disproved in 1609. The first person to present a detailed argument that the earth revolves around the sun was the Polish priest Nicholas Copernicus, in 1514. Nearly a century later, Galileo Galilei, an Italian scientist and Johannes Kepler, a German scientist, studied how the moons of some planets moved in the sky, and used their observations to validate Copernicus's thinking. To fit the observations, Kepler proposed an elliptical orbit model instead of a circular one. In his 1687 book on gravity, Principia Mathematica, Isaac Newton used complex mathematics to further support Copernicus's idea. Newton's model also meant that stars, like the sun, were not fixed but, rather, faraway moving objects. Nevertheless, Newton believed that the universe was made up of an infinite number of stars which were more or less static. Many of his contemporaries, including German philosopher Heinrich Olbers, disagreed.
+
+The origin of the universe represented another great topic of study and debate over the centuries. Early philosophers like Aristotle thought that the universe has existed forever, while theologians such as St. Augustine believed it was created at a specific time. St. Augustine also believed that time was a concept that was born with the creation of the universe. More than 1000 years later, German philosopher Immanuel Kant thought that time goes back forever.
+
+In 1929, astronomer Edwin Hubble discovered that galaxies are moving away from each other. Consequently, there was a time, between ten and twenty billion years ago, when they were all together in one singular extremely dense place. This discovery brought the concept of the beginning of the universe within the province of science. Today, scientists use two partial theories, Einstein's general theory of relativity and quantum mechanics, to describe the workings of the universe. Scientists are still looking for a complete unified theory that would describe everything in the universe. Hawking believes that the search for such a universal theory, even though motivated by the essential human need for logic, order and understanding, might affect the survival of the human species.
+Chapter 2: Space and Time
+
+Before Galileo and Newton, it was assumed that Aristotle was right in saying that objects are essentially at rest until a force acts to set them in motion. Newton proved this to be wrong, using Galileo's experiments to devise his laws of motion. Newton also developed his law of gravitation, which accurately described the motions of space objects. According to the Aristotelian tradition, events stay in the same place over a period of time. Newton's laws proved that to be false, positing that each object in the universe is moving relative to others, and that it is impossible to assign an absolute resting position.
+
+Both Aristotle and Newton believed in absolute time, a concept independent of space. But this belief does not work for objects moving at or near the speed of light. The speed of light was first measured in 1676 by the Danish astronomer Ole Christensen Roemer, who observed that the time it took light to come from Jupiter's moons varied depending on their distance from the earth. The speed of light was found to be very fast but finite. However, scientists found a problem when they tried to say that light always traveled at the same speed. The scientists imagined a substance called the ether to explain light's absolute speed.
+Einstein said that time was not absolute, or always the same
+This is a light cone
+
+But the assumption of ether did not properly explain the speed of light in many other phenomena. In 1905, Albert Einstein said the idea of the ether was not needed if another idea, the idea of absolute time (or time that is always the same) was dropped. French mathematician Henri Poincare also had the same idea, but from a mathematical perspective. Einstein's idea is called the theory of relativity.
+
+Events can be described by light cones. The top of the light cone tells where the light from the event will travel, the bottom tells where the light was in the past, and the center is the event itself. Besides light cones, Hawking also talks about how light can bend. When light goes past a highly massive object, such as a star, the light changes direction slightly towards the object.
+
+After talking about light, Hawking talks about time in Einstein's theory of relativity. One prediction that Einstein's theory makes is that time will go by slower when something is near huge masses. However, when something is farther away from the mass, time will go by faster. Hawking used the idea of two twins living at different places to describe his idea. If one of the twins went to live on a mountain, and another twin went to live near the sea, the twin who went to live on the mountain would be a little bit younger than the twin who went to live at the sea.
+Chapter 3: The Expanding Universe
+The Big Bang is shown here. From the picture, we can tell the universe is getting bigger over time
+
+In this chapter, Hawking talks about the expanding universe. The universe is getting bigger over time. One of the things he uses to explain his idea is the Doppler shift. The Doppler shift happens when something moves toward or away from another object. There are two types of things that happen in Doppler shift - red shifting and blue shifting. Red shifting happens when something is moving away from us. This is caused by the wavelength of the visible light reaching us increasing, and the frequency decreasing, which shifts the visible light towards the red/infra-red end of the electromagnetic spectrum. Red-shift is linked to the belief that the universe is expanding as the wavelength of the light is increasing, almost as if stretched as planets and galaxies move away from us, which shares similarities to that of the doppler effect, involving sound waves. Blue shifting happens when something is moving toward us, the opposite process of red-shift, in which the wavelength decreases and frequency increases, shifting the light towards the blue end of the spectrum. A scientist named Edwin Hubble found that many stars are red shifted and are moving away from us. Hawking uses the Doppler shift to explain that the universe is getting bigger. The beginning of the universe is thought to have happened through something called the Big Bang. The Big Bang was a very big explosion that created the universe.
+Chapter 4: The Uncertainty Principle
+
+This chapter is about the uncertainty principle. The uncertainty principle says that the speed and the position of a particle cannot be found at the same time. To find where a particle is, scientists shine light at the particle. If a high frequency light is used, the light can find the position more accurately but the particle's speed will be unknown (because the light will change the speed of the particle). If a lower frequency light is used, the light can find the speed more accurately but the particle's position will be unknown. The uncertainty principle disproved the idea of a theory that was deterministic, or something that would predict everything in the future.
+Here is a picture of a light wave.
+
+How light behaves is also talked more about in this chapter. Some theories say that light acts like particles even though it really is made of waves; one theory that says this is Planck's quantum hypothesis. A different theory also says that light waves also act like particles; a theory that says this is Heisenberg's uncertainty principle.
+Light interference causes many colors to appear.
+
+Light waves have crests and troughs. The highest point of a wave is the crest, and the lowest part of the wave is a trough. Sometimes more than one of these waves can interfere with each other - the crests and the troughs line up. This is called light interference. When light waves interfere with each other, this can make many colors. An example of this is the colors in soap bubbles.
+Chapter 5: Elementary Particles and Forces of Nature
+
+Quarks and other elementary particles are the topic of this chapter.
+
+Quarks are very small things that make up everything we see (matter). There are six different "flavors" of quarks: the up quark, down quark, strange quark, charmed quark, bottom quark, and top quark. Quarks also have three "colors": red, green, and blue. There are also anti-quarks, which are the opposite of the regular quarks. In total, there are 18 different types of regular quarks, and 18 different types of anti quarks. Quarks are known as the "building blocks of matter" because they are the smallest thing that make up all the matter in the universe.
+A particle of spin 1 needs to be turned around all the way to look the same again, like this arrow.
+
+All particles (for example, the quarks) have something called spin. The spin of a particle shows us what a particle looks like from different directions. For example, a particle of spin 0 looks the same from every direction. A particle of spin 1 looks different in every direction, unless the particle is spun completely around (360 degrees). Hawking's example of a particle of spin 1 is an arrow. A particle of spin two needs to be turned around halfway (or 180 degrees) to look the same. The example given in the book is of a double-headed arrow. There are two groups of particles in the universe: particles with a spin of 1/2, and particles with a spin of 0, 1, or 2. All of these particles follow Pauli's exclusion principle. Pauli's exclusion principle says that particles cannot be in the same place or have the same speed. If Pauli's exclusion principle did not exist, then everything in the universe would look the same, like a roughly uniform and dense "soup".
+This is a proton. It is made up of three quarks. All the quarks are different colors because of confinement.
+
+Particles with a spin of 0, 1, or 2 move force from one particle to another. Some examples of these particles are virtual gravitons and virtual photons. Virtual gravitons have a spin of 2 and they represent the force of gravity. This means that when gravity affects two things, gravitons move to and from the two things. Virtual photons have a spin of 1 and represent electromagnetic forces (or the force that holds atoms together).
+
+Besides the force of gravity and the electromagnetic forces, there are weak and strong nuclear forces. Weak nuclear forces are the forces that cause radioactivity, or when matter emits energy. Weak nuclear force works on particles with a spin of 1/2. Strong nuclear forces are the forces that keep the quarks in a neutron and a proton together, and keeps the protons and neutrons together in an atom. The particle that carries the strong nuclear force is thought to be a gluon. The gluon is a particle with a spin of 1. The gluon holds together quarks to form protons and neutrons. However, the gluon only holds together quarks that are three different colors. This makes the end product have no color. This is called confinement.
+
+Some scientists have tried to make a theory that combines the electromagnetic force, the weak nuclear force, and the strong nuclear force. This theory is called a grand unified theory (or a GUT). This theory tries to explain these forces in one big unified way or theory.
+Chapter 6: Black Holes
+A picture of a black hole and how it changes light around it.
+
+Black holes are talked about in this chapter. Black holes are stars that have collapsed into one very small point. This small point is called a singularity. Black holes suck things into their center because they have very strong gravity. Some of the things it can suck in are light and stars. Only very large stars, called super-giants, are big enough to become a black hole. The star must be one and a half times the mass of the sun or larger to turn into a black hole. This number is called the Chandrasekhar limit. If the mass of a star is less than the Chandrasekhar limit, it will not turn into a black hole; instead, it will turn into a different, smaller type of star. The boundary of the black hole is called the event horizon. If something is in the event horizon, it will never get out of the black hole.
+
+Black holes can be shaped differently. Some black holes are perfectly spherical - like a ball. Other black holes bulge in the middle. Black holes will be spherical if they do not rotate. Black holes will bulge in the middle if they rotate.
+
+Black holes are difficult to find because they do not let out any light. They can be found when black holes suck in other stars. When black holes suck in other stars, the black hole lets out X-rays, which can be seen by telescopes.
+
+In this chapter, Hawking talks about his bet with another scientist, Kip Thorne. Hawking bet that black holes did not exist, because he did not want his work on black holes to be wasted. He lost the bet.
+Chapter 7: Black Holes Ain't So Black
+
+This chapter explains more about black holes.
+
+Hawking realized that the event horizon of a black hole could only get bigger, not smaller. The area of the event horizon of a black hole gets bigger whenever something falls into the black hole. He also realized that when two black holes combine, the size of the new event horizon is greater than or equal to the sum of the event horizons of the two other black holes. This means that a black hole's event horizon can never get smaller.
+
+Disorder, also known as entropy, is related to black holes. There is a scientific law that has to do with entropy. This law is called the second law of thermodynamics, and it says that entropy (or disorder) will always increase in an isolated system (for example, the universe). The relation between the amount of entropy in a black hole and the size of the black hole's event horizon was first thought of by a research student (Jacob Bekenstein) and proven by Hawking, whose calculations said that black holes emit radiation. This was strange, because it was already said that nothing can escape from a black hole's event horizon.
+
+This problem was solved when the idea of pairs of "virtual particles" was thought of. One of the pair of particles would fall into the black hole, and the other would escape. This would look like the black hole was emitting particles. This idea seemed strange at first, but many people accepted it after a while.
+Chapter 8: The Origin and Fate of the Universe
+The Big Bang and the evolution of the universe
+
+How the universe started and how it might end is talked about in this chapter.
+
+Most scientists believe that the universe started in an explosion called the Big Bang. The model for this is called the "hot big bang model". When the universe starts getting bigger, the things inside of it also begin to get cooler. When the universe was first beginning, it was infinitely hot. The temperature of the universe cooled and the things inside the universe began to clump together.
+
+Hawking also talks about how the universe could have been. For example, if the universe formed and then collapsed quickly, there would not be enough time for life to form. Another example would be a universe that expanded too quickly. If a universe expanded too quickly, it would become almost empty. The idea of many universes is called the many-worlds interpretation.
+
+Inflationary models are also discussed in this chapter, and so is the idea of a theory that unifies quantum mechanics and gravity.
+
+Each particle has many histories. This idea is known as Feynman's theory of sum over histories. A theory that unifies quantum mechanics and gravity should have Feynman's theory in it. To find the chance that a particle will pass through a point, the waves of each particle needs to be added up. These waves happen in imaginary time. Imaginary numbers, when multiplied by themselves, make a negative number. For example, 2i X 2i = -4.
+Chapter 9: The Arrow of Time
+
+In this chapter Hawking talks about why "real time" as humans observe and experience it (in contrast to the "imaginary time" in the laws of science) seems to have a certain direction, notably from the past towards the future. The things that give time this property are the arrows of time.
+
+Firstly, there is the thermodynamic arrow of time. According to this, starting from any higher order organized state, the overall disorderliness in the world always increases as time passes. This is why we never see a broken pieces of a cup gather themselves together to form a whole cup. Even though human civilizations have tried to make things more orderly, the energy dissipated in this process has created more overall disorder in the universe.
+
+The second arrow is the psychological arrow of time. Our subjective sense of time seems to flow in one direction, which is why we remember the past and not the future. Hawking claims that our brain measures time in a way where disorder increases in the direction of time. We never observe it working in the opposite direction. In other words, the psychological arrow of time is intertwined with the thermodynamic arrow of time.
+
+Thirdly there is the cosmological arrow of time, the direction of time in which our universe is expanding and not contracting. Hawking believes that in order for us to observe and experience the first two arrows of time, the universe would have to begin in a very smooth and orderly state. And then as it expanded, it became more disorderly. So the thermodynamic arrow agrees with the cosmological arrow.
+
+However, because of the "no boundary" proposal for the universe, after a period of expansion, the universe will probably start to contract. But it will probably not go backwards in time to a more smooth, orderly state. The thermodynamic arrow in the contracting phase will not be as strong.
+
+As for why humans experience these three arrows of time going in the same direction, Hawking postulates that humans have been living in the expanding phase of the universe. He thinks that intelligent life couldn't exist in the contracting phase of the universe. Only the expanding phase of the universe is suitable for intelligent beings like humans to exist, because it contains a strong thermodynamic arrow. Hawking calls this the "weak anthropic principle".
+Chapter 10: The Unification of Physics
+A wavy open segment and closed loop of string.
+The fundamental objects of string theory are open and closed strings.
+
+Physicists have come up with partial theories to describe a limited range of things, but a complete, unified and consistent theory which can take into account all of these partial theories remain unknown. Hawking is cautiously optimistic that such a unified theory of the universe may be found soon. Such a theory must combine the classical theory of gravity with the uncertainty principle found in quantum mechanics. Attempts to do that have led to the occurrence of absurd infinitely massed particles or an infinitely small universe. In 1976, the theory of "supergravity" was suggested as a solution. But the calculations to verify the theory was deemed time-consuming and thus abandoned. In 1984, another kind of theories called the "string theories", where basic objects are not particles but two-dimensional strings, became popular among physicists. They were claimed to explain the existence of certain particles better than supergravity and other theories. However, according to string theories, instead of the usual four space-time dimensions, the universe could have dozens of them. It is imagined that humans do not experience the other dimensions because these are too tightly curled up. This is due to the "weak anthropic principle", according to which intelligent beings like humans cannot exist in any other way. String theories appear to allow this situation for certain regions of the universe, but there may be other regions of the universe where more than four dimensions are prominent. Furthermore, supergravity, p-brane and string theories all describe different situations with similar results, as if using different approximations of the same theory.
+
+Hawking thus proposes three possibilities: 1) there exists a complete unified theory that we will eventually find; 2) there are an infinite number of theories that overlap and describe the universe more and more accurately and 3) there is no ultimate theory. The third possibility has been sidestepped by acknowledging the limits set by the uncertainty principle. The second possibility describes what has been happening in physical sciences so far, with increasingly accurate partial theories. Hawking believes that such refinement has a limit and that by studying the very early stages of the universe in a laboratory setting, it is possible to finally find a complete unified theory in the 21st century. Such a theory might not be proven but would be mathematically consistent. The predictions of such a basic set of laws would match our observations. However, given the complicated nature of realistic situations, it would only be a first step to a complete understanding of the events around us.
+Chapter 11: Conclusion
+Humans have always wanted to make sense of the universe and their place in it. At first, events were considered random and controlled by human-like emotional spirits. But in astronomy and in some other situations, regularities were observed. With the advancement of the human civilization in the modern age, more regularities and laws were discovered. Laplace suggested at the beginning of the nineteenth century that the universe’s structure and evolution could eventually be precisely explained by a set of laws. However, the origin of these laws was left in God’s domain. In the twentieth century, quantum theory introduced the uncertainty principle, which set limits to the predictive accuracy of laws to be discovered. The big bang implied by the general theory of relativity indicates that a creator of the universe or God has the freedom to choose the origin and the laws of the universe. When one combines theory of gravity with quantum mechanics, however, a unified and completely self-contained theory may emerge, in which God has little or no role to play. So the search of a unified theory may shed light on the nature of God. However, most scientists today are working on the theories themselves than asking such philosophical questions. On the other hand, these physical theories are so mathematical and technical that philosophers are not discussing them like they used to do, let alone ordinary people. Hawking would like to see that eventually everybody would one day talk about these theories in order to understand the true origin and nature of the universe, accomplishing the ultimate triumph of human reasoning.
